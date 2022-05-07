@@ -1,0 +1,35 @@
+body{
+background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,00,0,0) 70.71%),
+            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+            linear-gradient(60deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+@font-face{
+	font-family: "AppleChancery";
+	src: url("AppleChancery.ttf");
+}
+h1{
+	color: red;
+}
+span.email{
+	font-style: oblique;
+	font-size: 17;
+	color: orangered
+}
+p{
+	font-family: "AppleChancery";
+	font-size: 16;
+	color: #91ff22;
+}
+p.autresite{
+	color: red;
+	background-color: black;
+}
+span.sus{
+	background-color: yellow;
+}
+a{
+	font-family: Arial;
+	color: #0ff0d5;
+	font-style: bold;
+	cursor: url("../IMG/therock.jpg"), default;
+}
